@@ -40,3 +40,13 @@ if userInputNumber < 0:
 
 if userInputNumber == 0:
     print('The number is zero')
+
+    # 2,3 - if else statement and print
+if userInputNumber > 0:
+    print('The number is positive')
+
+elif userInputNumber < 0:
+    print('The number is negative')
+
+elif userInputNumber == 0:
+    print('The number is zero')

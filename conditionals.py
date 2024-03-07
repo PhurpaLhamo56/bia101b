@@ -22,6 +22,6 @@ if whatUserTyped == "+":
     print('Doing Additon')
     print('doing more addtion')
 
-    if whatUsertyped == "-":
+    if whatUserTyped == "-":
         print('Doing substration')
         print('doing more substration')
